@@ -32,25 +32,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 My Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzimShaikh2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Azim's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzimShaikh2004&theme=tokyonight&hide_border=true" alt="Azim's GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzimShaikh2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AzimShaikh2004&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
