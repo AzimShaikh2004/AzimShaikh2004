@@ -48,7 +48,7 @@ currently_learning:
   - Kubernetes Security & Service Mesh
 
 open_to: Collaborations on Open Source, DevOps, and AI projects
-fun_fact: "I automate everything — even my morning coffee ☕"
+
 ```
 
 ---
