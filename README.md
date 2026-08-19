@@ -35,7 +35,7 @@ name: Mohammed Azim Shaikh
 location: Pune, Maharashtra, India 🇮🇳
 role: Aspiring Cloud DevSecOps Engineer & Full Stack Developer
 experience: Data Science Intern @ Celebal Technologies
-education: Engineering Student
+education: MCA Student
 
 currently_working_on:
   - Cloud-native applications with Docker & Kubernetes
